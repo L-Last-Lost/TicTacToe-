@@ -1,0 +1,12 @@
+﻿  index.cpp
+D:\Code\C++\OX_table\index.cpp(58,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(58,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(61,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(61,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(61,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(61,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(62,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(62,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(62,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Code\C++\OX_table\index.cpp(62,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  OX_table.vcxproj -> D:\Code\C++\OX_table\x64\Debug\OX_table.exe
